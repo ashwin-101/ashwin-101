@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+VIT+Chennai+%7C+CGPA+8.7;IEEE+%26+Springer+Nature+Published+Researcher;18+Patents+%7C+3%2B+High-Impact+Publications;Top+0.03%25+%E2%80%94+23%2C000%2B+participants+%7C+Hackathon+Winner;Samsung+PRISM+%7C+CV+Raman+Award+Recipient)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+VIT+Chennai+%7C;IEEE+%26+Springer+Nature+Published+Researcher;18+Patents+%7C+3%2B+High-Impact+Publications;Top+0.03%25+%E2%80%94+23%2C000%2B+participants+%7C+Hackathon+Winner;Samsung+PRISM+%7C+CV+Raman+Award+Recipient)](https://git.io/typing-svg)
 
 </div>
 
