@@ -217,7 +217,7 @@ Research Intern — Taylor's University, Malaysia           May – Jul 2025
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashwin-101&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=86400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashwin-101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
