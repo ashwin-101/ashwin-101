@@ -26,7 +26,7 @@
 
 ```python
 ashwin = {
-    "role"        : ["ML Engineer", "Systems Researcher", "Full-Stack Builder"],
+    "role"        : ["ML Engineer", "AI Engineer", "Systems Researcher", "Full-Stack Builder"],
     "education"   : "B.Tech CSE @ VIT Chennai (2027) — CGPA 8.7",
     "research"    : ["IEEE IoT (IF 8.9)", "Springer Nature", "IEEE Access"],
     "patents"     : "18 filed (collision prediction, aviation, health diagnostics, agri, flood...)",
