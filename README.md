@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-singh-717abb288)
 [![GitHub](https://img.shields.io/badge/GitHub-ashwin--101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwin-101)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0HciceUAAAAJ&hl=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://ashy-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ashwin-101.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/slathiaashwin3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slathiaashwin3@gmail.com)
 
 </div>
